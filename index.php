@@ -1,0 +1,4 @@
+<?php
+/*
+* pierwsza wersja strony
+*/
